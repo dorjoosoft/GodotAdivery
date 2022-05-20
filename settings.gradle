@@ -1,0 +1,4 @@
+include ':godotadiveryplugin'
+include ':godot-lib.release'
+include ':app'
+rootProject.name = "GodotAdivery"
